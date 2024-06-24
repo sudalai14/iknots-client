@@ -91,7 +91,7 @@ const Home = () => {
           <img src={logo} alt="Company Logo" className="w-20" />
           <div className="text-center text-orange-500 leading-none">
             <h1 className="font-bold text-xl">MARK</h1>
-            <p className="text-sl" style={{ fontSize: '0.8rem', width: '3.5rem', margin: '0' }}>Construction</p>
+            <p className="text-sl" style={{ fontSize: '0.6rem', width: '3.5rem', margin: '0' }}>Constructions</p>
           </div>
         </div>
         <div className="flex items-center space-x-6">

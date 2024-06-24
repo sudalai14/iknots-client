@@ -10,37 +10,37 @@ import profile4 from '../assets/profile4.png';
 
 const reviews = [
   {
-    name: "John Doe",
+    name: "Dhakshin",
     profilePic: profile1,
     feedback: "Great service and friendly staff!",
     rating: 5,
   },
   {
-    name: "Jane Smith",
+    name: "Abdul",
     profilePic: profile2,
     feedback: "Highly recommend, very professional.",
     rating: 4,
   },
   {
-    name: "Sam Wilson",
+    name: "Sudalai",
     profilePic: profile4,
     feedback: "Amazing experience, will come back again.",
     rating: 5,
   },
   {
-    name: "Lisa Wong",
+    name: "Ancy",
     profilePic: profile3,
     feedback: "Good quality work and timely delivery.",
     rating: 4,
   },
   {
-    name: "Paul Taylor",
+    name: "Viki",
     profilePic: profile1,
     feedback: "Very satisfied with the service.",
     rating: 5,
   },
   {
-    name: "Emily Davis",
+    name: "John",
     profilePic: profile2,
     feedback: "Fantastic results and great support.",
     rating: 5,
